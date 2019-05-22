@@ -1,4 +1,7 @@
 # 和我一步步部署 kubernetes 集群
+## 原文地址：https://github.com/opsnull/follow-me-install-kubernetes-cluster
+## 原作者github地址：https://github.com/opsnull
+## 为了方便，修改了参数和配置，方便自己使用，侵删。
 
 ![dashboard-home](./images/dashboard-home.png)
 
